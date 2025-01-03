@@ -534,7 +534,7 @@ footer{
     .nav-button{
         display: none;
     }
-    .nav-menu-responsive{
+    .nav-menu.responsive{
         left: 0;
     }
     .nav-menu{
